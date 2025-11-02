@@ -4,19 +4,22 @@ Este é o meu estudo de caso sobre uma empresa fictícia de bicicletas com sede 
 
 Estudo de Caso Empresa de Bicicletas 
 
-1. Visão Geral do Estudo de Caso
+# 1. Visão Geral do Estudo de Caso
 Título: Estudo de caso: Como um compartilhamento de bicicletas navega pelo sucesso rápido? 
 Empresa: Cyclistic (fictícia) 
 Introdução: Bem-vindo ao estudo de caso de análise de compartilhamento de bicicletas Cyclistic! 
 Processo de Análise: Para responder às perguntas de negócios, você deve seguir as seis etapas do processo de análise de dados: Perguntar, Preparar, Processar, Analisar, Compartilhar e Agir. As tabelas do "Roteiro do Estudo de Caso" ajudarão a guiá-lo.
 
-2. O Cenário e a Empresa (Cyclistic)
+# 2. O Cenário e a Empresa (Cyclistic)
 O Cenário
 Sua Função: Você é um analista de dados júnior trabalhando na equipe de análise de marketing da Cyclistic, uma empresa de compartilhamento de bicicletas em Chicago.
 O Desafio: A diretora de marketing (sua gerente) acredita que o sucesso futuro da empresa depende da maximização do número de associações anuais.
-O Objetivo: Sua equipe quer entender como os ciclistas casuais e os membros anuais usam as bicicletas Cyclistic de forma diferente. Com esses insights, a equipe irá projetar uma nova estratégia de marketing para converter ciclistas casuais em membros anuais.
+
+### O Objetivo: 
+Sua equipe quer entender como os ciclistas casuais e os membros anuais usam as bicicletas Cyclistic de forma diferente. Com esses insights, a equipe irá projetar uma nova estratégia de marketing para converter ciclistas casuais em membros anuais.
 Aprovação: Os executivos da Cyclistic devem aprovar suas recomendações, portanto, elas devem ser apoiadas por insights de dados convincentes e visualizações de dados profissionais.
-Sobre a Empresa
+
+### Sobre a Empresa
 História e Frota: A Cyclistic lançou seu programa em 2016. Desde então, cresceu para uma frota de 5.824 bicicletas geo rastreadas e 692 estações em Chicago.
 Funcionalidade: As bicicletas podem ser desbloqueadas de uma estação e devolvidas a qualquer outra estação no sistema a qualquer momento.
 Inclusão: A Cyclistic se diferencia por também oferecer bicicletas reclinadas, triciclos manuais e bicicletas de carga, tornando o compartilhamento de bicicletas mais inclusivo.
@@ -33,31 +36,36 @@ Novo Foco Estratégico: A diretora de marketing, Moreno, acredita que maximizar 
 Meta Clara: Moreno estabeleceu um objetivo claro: Projetar estratégias de marketing destinadas a converter ciclistas casuais em membros anuais.
 Necessidade de Dados: Para fazer isso, a equipe precisa entender melhor como os membros anuais e os ciclistas casuais diferem e está interessada em analisar os dados históricos de viagens de bicicleta da Cyclistic para identificar tendências.
 
-4. Personagens e Equipes
+# 3. Personagens e Equipes
 Cyclistic: O programa de compartilhamento de bicicletas com mais de 5.800 bicicletas e 600 estações de acoplamento.
 Lily Moreno: A diretora de marketing e sua gerente. Ela é responsável pelo desenvolvimento de campanhas (e-mail, mídia social, etc.) para promover o programa.
 Equipe de análise de marketing da Cyclistic: Uma equipe de analistas de dados responsável por coletar, analisar e relatar dados que ajudam a orientar a estratégia de marketing. Você entrou para esta equipe há seis meses.
 Equipe executiva da Cyclistic: A equipe executiva notoriamente orientada a detalhes que decidirá se aprova o programa de marketing recomendado.
 
-5. Fase 1: Perguntar (Ask)
+# 4. Fase 1: Perguntar (Ask)
 Perguntas Orientadoras de Negócios: Três perguntas guiarão o futuro programa de marketing:
-Como os membros anuais e os ciclistas casuais usam as bicicletas Cyclistic de forma diferente? 
-Por que os ciclistas casuais comprariam associações anuais da Cyclistic? 
-Como a Cyclistic pode usar a mídia digital para influenciar os ciclistas casuais a se tornarem membros? 
+* Como os membros anuais e os ciclistas casuais usam as bicicletas Cyclistic de forma diferente? 
+* Por que os ciclistas casuais comprariam associações anuais da Cyclistic? 
+* Como a Cyclistic pode usar a mídia digital para influenciar os ciclistas casuais a se tornarem membros? 
+
 Sua Tarefa Específica: Moreno atribuiu a você a primeira pergunta para responder: Como os membros anuais e os ciclistas casuais usam as bicicletas Cyclistic de forma diferente? 
+
 Entregáveis Exigidos: Você produzirá um relatório com os seguintes resultados:
-Uma declaração clara da tarefa de negócios.
-Uma descrição de todas as fontes de dados usadas.
-Documentação de qualquer limpeza ou manipulação de dados.
-Um resumo de sua análise.
-Visualizações de apoio e principais descobertas.
-Suas três principais recomendações com base em sua análise.
+* Uma declaração clara da tarefa de negócios.
+* Uma descrição de todas as fontes de dados usadas.
+* Documentação de qualquer limpeza ou manipulação de dados.
+* Um resumo de sua análise.
+* Visualizações de apoio e principais descobertas.
+* Suas três principais recomendações com base em sua análise.
+  
 Roteiro (Perguntar):
-Perguntas orientadoras: Qual é o problema que você está tentando resolver? Como seus insights podem impulsionar as decisões de negócios? 
+Perguntas orientadoras: 
+* Qual é o problema que você está tentando resolver?
+* Como seus insights podem impulsionar as decisões de negócios? 
 Tarefas principais: Identificar a tarefa de negócios. Considerar as principais partes interessadas.
 Resultado: Uma declaração clara da tarefa de negócios.
 
-6. Fase 2: Preparar (Prepare)
+# 5. Fase 2: Preparar (Prepare)
 Fonte de Dados: Use os dados históricos de viagem da Cyclistic para analisar e identificar tendências. (Nota: Os conjuntos de dados têm um nome diferente, "Divvy", porque a Cyclistic é fictícia, mas os dados são apropriados ).
 Download dos Dados:
 Se você NÃO for usar R, baixe os dados de viagem dos 12 meses anteriores.
