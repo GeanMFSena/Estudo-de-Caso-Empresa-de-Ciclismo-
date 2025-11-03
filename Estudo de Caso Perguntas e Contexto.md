@@ -89,7 +89,7 @@ Perguntas orientadoras:
 Tarefas principais: Baixar dados e armazená-los adequadamente. Identificar como estão organizados. Classificar e filtrar os dados. Determinar a credibilidade dos dados.
 Resultado: Uma descrição de todas as fontes de dados usadas.
 
-# 7. Fase 3: Processar (Process)
+# 6. Fase 3: Processar (Process)
 
 ### Roteiro (Processar):
 Perguntas orientadoras: 
@@ -108,7 +108,7 @@ Etapas Específicas de Processamento (Para Planilhas):
 * Crie uma coluna chamada ride_length (duração da viagem). Calcule a duração subtraindo a coluna started_at da coluna ended_at (por exemplo, =D2-C2). Formate como HH:MM:SS (ex: 37:30:55).
 * Crie uma coluna chamada day_of_week (dia da semana). Calcule o dia da semana em que cada viagem começou usando o comando WEEKDAY (por exemplo, WEEKDAY(C2, 1)). (Nota: 1= Domingo e 7= Sábado) .
 
-# 8. Fase 4: Analisar (Analyze)
+# 7. Fase 4: Analisar (Analyze)
 ### Roteiro (Analisar):
 Perguntas orientadoras: 
 * Como você deve organizar seus dados para realizar a análise?
@@ -145,7 +145,7 @@ Etapas Específicas (Usando SQL):
 * Conduza análise descritiva.
 * Exporte um arquivo de resumo.
 
-# 9. Fase 5: Compartilhar (Share)
+# 8. Fase 5: Compartilhar (Share)
 Objetivo: Criar visualizações sofisticadas e polidas para comunicar efetivamente suas descobertas à equipe executiva.
 ### Roteiro (Compartilhar):
 Perguntas orientadoras: 
@@ -164,7 +164,7 @@ Etapas Específicas de Visualização:
 * Garanta um significado claro através do uso adequado de títulos, legendas e rótulos.
 * Refine sua visualização com atenção aos detalhes.
 
-# 10. Fase 6: Agir (Act)
+# 9. Fase 6: Agir (Act)
 Objetivo: Preparar os entregáveis que Morena pediu, incluindo as três principais recomendações com base em sua análise.
 ### Roteiro (Agir):
 Perguntas orientadoras: 
@@ -181,7 +181,7 @@ Etapas Específicas (Portfólio):
 * Faça o upload ou link das descobertas do seu estudo de caso para o seu portfólio.
 * Escreva um breve parágrafo descrevendo o estudo de caso, seu processo e suas descobertas para introduzi-lo.
 
-11. Conclusão do Estudo de Caso
+# 10. Conclusão do Estudo de Caso
 Encerramento: Parabéns por terminar o estudo de caso Cyclistic! 
 Próximos Passos: Você pode usar as etapas deste roteiro (Perguntar, Preparar, Processar, Analisar, Compartilhar e Agir) para criar um novo projeto próprio.
 Mensagem Final: Boa sorte em sua busca por emprego!
