@@ -1,5 +1,3 @@
-# Estudo de Caso Empresa de Bicicletas 
-
 # 1. Visão Geral do Estudo de Caso
 Título: Estudo de caso: Como um compartilhamento de bicicletas navega pelo sucesso rápido? 
 Empresa: Cyclistic (fictícia) 
