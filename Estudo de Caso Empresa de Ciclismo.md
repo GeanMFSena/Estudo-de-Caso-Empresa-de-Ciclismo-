@@ -38,15 +38,7 @@ como os dados estavam ficando muito pesados para serem trabalhos no excel passei
 <img width="751" height="595" alt="image" src="https://github.com/user-attachments/assets/8548533c-50a0-462c-81d6-0ffa29f8bacc" />
 
 
-Dias	Total de Minutos por dia	Representaçao dos dias no todo
-Domingo	2549384,00	16%
-Segunda-feira	1956320,00	13%
-Terça-feira	2197081,00	14%
-Quarta-feira	2020731,00	13%
-Quinta-feira	2482831,00	16%
-Sexta-feira	2342575,00	15%
-Sábado	2076300,00	13%
-Total	15625222,00	100%
+Porcentagem diaria de minutos 
 <img width="549" height="217" alt="image" src="https://github.com/user-attachments/assets/1b812471-e543-48ee-a5c7-bd6c174edf12" />
 
 
