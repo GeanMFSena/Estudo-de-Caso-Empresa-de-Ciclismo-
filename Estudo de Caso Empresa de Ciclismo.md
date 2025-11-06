@@ -35,7 +35,7 @@ Depois criei a coluan day of week que representa os dias da semana ( domingo = 1
 
 como os dados estavam ficando muito pesados para serem trabalhos no excel passei a utilizar o SQL para continuar a minha analise 
 
-<img width="602" height="476" alt="image" src="https://github.com/user-attachments/assets/1aa2d282-2ae2-47b9-93c2-647040918c04" />
+<img width="751" height="595" alt="image" src="https://github.com/user-attachments/assets/8548533c-50a0-462c-81d6-0ffa29f8bacc" />
 
 
 
