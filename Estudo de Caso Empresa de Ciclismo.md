@@ -18,3 +18,25 @@ Para realizar essa análise, é fundamental compreender o contexto da empresa, b
 Para iniciar o processo, busquei os dados oficiais disponibilizados nos servidores da Amazon, onde estão armazenados os conjuntos de dados da empresa Cyclistic. Foram utilizados os datasets referentes ao primeiro trimestre de 2019 e 2020, disponíveis no link:
 🔗 https://divvy-tripdata.s3.amazonaws.com/index.html
 
+Primeiro utilizei o excel para analise verificando os dados de cada coluna e analisar os dados começei retirando as colunas que eu nao utilizaria com o Power Query e deixei apenas as colunas:
+
+* user_type = coluna com os tipós de usuario ( membros e casual )
+* trip_id = coluna com os ids de cada usuario
+* start_station_name = nome da estaçao de saida
+* start_station_id = id da estaçao de saida
+* started_at = dia e horas que aconteceu a saida
+* end_station_name = nome da estaçao de chegada
+* end_station_id = id da estaçao de chegada
+* ended_at = dia e horas que aconteceu a chegada
+* gender = genero de cada usuario
+
+Depois criei a coluan day of week que representa os dias da semana ( domingo = 1 e sabado = 7 ) 
+
+
+como os dados estavam ficando muito pesados para serem trabalhos no excel passei a utilizar o SQL para continuar a minha analise 
+
+<img width="602" height="476" alt="image" src="https://github.com/user-attachments/assets/1aa2d282-2ae2-47b9-93c2-647040918c04" />
+
+
+
+
