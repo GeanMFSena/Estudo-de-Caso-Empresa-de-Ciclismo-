@@ -39,6 +39,8 @@ como os dados estavam ficando muito pesados para serem trabalhos no excel passei
 
 
 Porcentagem diaria de minutos 
+
+
 <img width="549" height="217" alt="image" src="https://github.com/user-attachments/assets/1b812471-e543-48ee-a5c7-bd6c174edf12" />
 
 
