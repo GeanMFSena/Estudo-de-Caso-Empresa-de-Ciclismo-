@@ -59,16 +59,33 @@ Como os dados estavam ficando muito pesados para serem trabalhados no Excel, pas
 
 
 
+SQL para criar a coluna diff_trip_duration
 
+```{sql}
 
-´´´{sql}
+SELECT 
+*,
+DATEDIFF(MINUTE, started_at, ended_at) AS diff_minutes
+FROM Dados_Empresa_de_Ciclistas
+ORDER BY diff_minutes DESC;
 
+```
 
+Pegando o Tempo Maximo que os tipos de usuario tiveram com as Bikes por Dia
 
-´´´
+```{sql}
+SELECT 
+user_type,
+MAX(DATEDIFF(DAY, started_at, ended_at)) AS max_diff_minutes
+FROM [Dados Empresa de Ciclistas(Recuperado Automaticamente)(2)]
+GROUP BY user_type;
 
+result:
 
+Member	71 Dias 
+Casual	123 Dias 
 
+```
 
 
 
