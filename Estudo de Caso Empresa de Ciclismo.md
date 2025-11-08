@@ -267,18 +267,28 @@ A seguir, temos um boxplot que nos ajuda a compreender melhor o comportamento do
 
 
 
-Em seguida, apresento a porcentagem diária de minutos e a soma total de minutos por dia, o que reforça as diferenças no comportamento entre os dois grupos analisados:
+Em seguida, apresento a porcentagem diária de minutos e a soma total de minutos por dia dividido por tipo de usuario para verificarmos em quais dias os usuarios mais usam as bikes :
+
+Membros :
+
+
+<img width="553" height="217" alt="image" src="https://github.com/user-attachments/assets/4eaf3c85-d7e8-498e-993d-5cc6b124cd66" />
 
 
 
-
-<img width="549" height="217" alt="image" src="https://github.com/user-attachments/assets/f576bc79-14f7-481f-b233-7961a05e185b" />
-
+Casual : 
 
 
 
+<img width="553" height="217" alt="image" src="https://github.com/user-attachments/assets/e642a2eb-d99e-4a74-9a65-71ca214ad9b0" />
 
 
+
+Podemos tirar algumas conclusoes disso:
+
+* Os ciclistas casuais utilizam as bicicletas por menos tempo em comparação aos membros anuais, porém o tempo total de uso dos casuais representa cerca de 64% do tempo dos membros.
+* Entre os membros, a média de tempo de uso se mantém estável ao longo da semana, com ligeiro destaque para os dias úteis, indicando um padrão de uso mais regular.
+* Já os usuários casuais apresentam uma diferença perceptível no comportamento: no início da semana o número de usos é mais baixo, mas a partir de quinta-feira os valores começam a crescer, atingindo os maiores índices durante o final de semana.
 
 
 
