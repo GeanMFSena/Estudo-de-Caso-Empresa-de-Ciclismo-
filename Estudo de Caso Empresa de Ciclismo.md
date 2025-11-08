@@ -29,19 +29,22 @@ Primeiro utilizei o excel para analise verificando os dados de cada coluna e ana
 * end_station_id = id da estaçao de chegada
 * ended_at = dia e horas que aconteceu a chegada
 * gender = genero de cada usuario
+  
+Como os dados estavam ficando muito pesados para serem trabalhados no Excel, passei a utilizar o SQL para continuar a análise.
 
-Depois criei a coluan day of week que representa os dias da semana ( domingo = 1 e sabado = 7 ) 
+A seguir, temos um boxplot que nos ajuda a compreender melhor o comportamento dos dados. Podemos observar que há muitos outliers, ou seja, diversos valores que ultrapassam a média. A partir disso, é possível tirar algumas conclusões:
 
-
-como os dados estavam ficando muito pesados para serem trabalhos no excel passei a utilizar o SQL para continuar a minha analise 
+* A média de tempo pode estar distorcida (puxada para cima), já que a maioria dos valores ultrapassa a média geral, sendo 13,29 minutos para membros e 89,44 minutos para usuários casuais.
+* Também conseguimos ter uma noção inicial da resposta à pergunta do estudo de caso, pois tanto a média de tempo quanto a quantidade de outliers dos usuários casuais são significativamente maiores do que as dos membros anuais.
 
 <img width="751" height="595" alt="image" src="https://github.com/user-attachments/assets/8548533c-50a0-462c-81d6-0ffa29f8bacc" />
 
 
-Porcentagem diaria de minutos 
+Porcentagem diaria de minutos e soma dos minutos por dia  
 
 
-<img width="549" height="217" alt="image" src="https://github.com/user-attachments/assets/1b812471-e543-48ee-a5c7-bd6c174edf12" />
+<img width="549" height="217" alt="image" src="https://github.com/user-attachments/assets/f576bc79-14f7-481f-b233-7961a05e185b" />
+
 
 
 
