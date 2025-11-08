@@ -18,7 +18,27 @@ Para realizar essa análise, é fundamental compreender o contexto da empresa, b
 Para iniciar o processo, busquei os dados oficiais disponibilizados nos servidores da Amazon, onde estão armazenados os conjuntos de dados da empresa Cyclistic. Foram utilizados os datasets referentes ao primeiro trimestre de 2019 e 2020, disponíveis no link:
 🔗 https://divvy-tripdata.s3.amazonaws.com/index.html
 
-Primeiro utilizei o excel para analise verificando os dados de cada coluna e analisar os dados começei retirando as colunas que eu nao utilizaria com o Power Query e deixei apenas as colunas:
+Primeiro utilizei o excel para analise verificando os dados de cada coluna e analisar os dados começei retirando as colunas que eu nao utilizaria com o Power Query:
+
+Colunas excluidas:
+
+
+bikeid = coluna retirada pois nao iria utilizar 
+birthyear = coluna retirada pois nao iria utilizar 
+tripduration = foi trocada pela diff_trip_duration
+
+Colunas tratadas:
+
+* start_time = started_at
+* end_time = ended_at 
+* from_station_id = start_station_id
+* from_station_name = start_station_name
+* to_station_id = end_station_id
+* to_station_name = end_station_name
+* day_of_week = Coluna adicionada com a formula do Excel day.of.week
+* diff_trip_duration = Coluna adicionada com SQL com a funçao DATEDIFF(MINUTE, started_at, ended_at) AS diff_minutes
+
+Deixei apenas as colunas:
 
 * user_type = coluna com os tipós de usuario ( membros e casual )
 * trip_id = coluna com os ids de cada usuario
@@ -29,8 +49,32 @@ Primeiro utilizei o excel para analise verificando os dados de cada coluna e ana
 * end_station_id = id da estaçao de chegada
 * ended_at = dia e horas que aconteceu a chegada
 * gender = genero de cada usuario
+* day_of_week = dia da semana que aconteceu a partida ( 1 domingo a 7 sabado ) 
+* diff_trip_duration = diferença de tempo do começo da viagem pro final
+
+Juntei as tabelas pois seria melhor para trabalhar com elas reuniadas em uma grande tabela fato 
+
   
 Como os dados estavam ficando muito pesados para serem trabalhados no Excel, passei a utilizar o SQL para continuar a análise.
+
+
+
+
+
+´´´{sql}
+
+
+
+´´´
+
+
+
+
+
+
+
+
+
 
 A seguir, temos um boxplot que nos ajuda a compreender melhor o comportamento dos dados. Podemos observar que há muitos outliers, ou seja, diversos valores que ultrapassam a média. A partir disso, é possível tirar algumas conclusões:
 
@@ -44,7 +88,7 @@ A seguir, temos um boxplot que nos ajuda a compreender melhor o comportamento do
 
 
 
-Porcentagem diaria de minutos e soma dos minutos por dia  
+Em seguida, apresento a porcentagem diária de minutos e a soma total de minutos por dia, o que reforça as diferenças no comportamento entre os dois grupos analisados:
 
 
 
