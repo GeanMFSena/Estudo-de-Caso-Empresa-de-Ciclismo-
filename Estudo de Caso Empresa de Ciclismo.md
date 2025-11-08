@@ -65,7 +65,7 @@ Criaçao da tabela " Dados_Empresa_de_Ciclistas "
 CREATE TABLE Dados_Empresa_de_Ciclistas (
 
 	user_type VARCHAR(100),
-	trip_id VARCHAR(100),
+	trip_id VARCHAR(100) PRIMARY KEY NOT NULL ,
 	start_station_name VARCHAR(100),
 	start_station_id INT,
 	started_at DATETIME,
@@ -273,6 +273,10 @@ Em seguida, apresento a porcentagem diária de minutos e a soma total de minutos
 
 
 <img width="549" height="217" alt="image" src="https://github.com/user-attachments/assets/f576bc79-14f7-481f-b233-7961a05e185b" />
+
+
+
+
 
 
 
