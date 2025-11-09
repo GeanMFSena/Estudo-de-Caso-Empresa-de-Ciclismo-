@@ -281,16 +281,16 @@ Podemos ver essa relacao com o grafico abaixo:
 
 <img width="682" height="247" alt="image" src="https://github.com/user-attachments/assets/ce671705-110a-45ae-a142-bb1cb5ea4621" />
 
-Aqui podemos ver com mais detalhes que os finais de semana sao os dias preferidos dos usuarios casuais e isso nos da um indicador de que se conseguirmos converter esse assinantes causuais que usam nos finais de semana para membros ja almentariamos consideravelmente nossos lucros
+Podemos ver com mais clareza que os finais de semana são os dias preferidos pelos usuários casuais.
+Isso mostra uma grande oportunidade: se conseguirmos converter esses usuários ocasionais em membros regulares, principalmente os que pedalam aos fins de semana, os lucros da empresa podem crescer bastante.
 
-Aqui temos uma comparacao de Tempo por tipo de genero sendo Homens, Mulheres e nao informados 
+
+Aqui temos uma comparação do tempo médio de uso entre homens, mulheres e não informados:
 
 <img width="525" height="246" alt="image" src="https://github.com/user-attachments/assets/754c85a1-5f67-4978-8d5c-86210af6a2ae" />
 
 
-Aqui podemos ver que os principais usuarios das Bikes sao majoritariamentes homens tanto no ano de 2019 quanto no de 2020 tendo um aumento significativo para os dois em comparacao do ano de 2019 a 2020 
-
-
+Os dados mostram que a maioria dos usuários ainda são homens, tanto em 2019 quanto em 2020, mas houve crescimento em todos os grupos no período analisado.
 
 2019 
 
@@ -302,14 +302,20 @@ Aqui podemos ver que os principais usuarios das Bikes sao majoritariamentes home
 <img width="524" height="245" alt="{4020AEBE-4A1B-4CA0-86BE-B1E1D343C043}" src="https://github.com/user-attachments/assets/47e9c43d-38e1-43b6-8820-ca605903c4dd" />
 
 
-Mas mesmo com esse aumento significativo na parte feminina ainda temos uma distancia discrepante de homens e mulheres 
+Mesmo com o aumento no uso entre as mulheres, ainda há uma diferença considerável em relação aos homens o que mostra um potencial de crescimento se a empresa investir em campanhas voltadas ao público feminino.
 
 
-Aqui temos um historico de dias com maior numero de procuras sendo domingo o mais pedido no periodo dos dois anos:
+Nos dois anos analisados, o domingo se destaca como o dia mais movimentado, seguido por outros dias de fim de semana.
+
 
 <img width="672" height="262" alt="{1137EE83-7377-44D3-A733-1D03C37F3DF8}" src="https://github.com/user-attachments/assets/70477013-e651-40f7-9abb-05279ded2d0a" />
 
 
+Aqui temos o crescimento no número de usuários em ambos os períodos, separados por tipo de usuário:
 
 
+<img width="523" height="251" alt="{4D807A72-F10A-4ECC-88ED-DD7110B87624}" src="https://github.com/user-attachments/assets/b97b5918-9219-479c-87ff-f389974d8579" />
+
+
+Os usuários casuais tiveram um crescimento impressionante de cerca de 323,64% em 2020 em relação a 2019 Isso mostra que esse grupo está cada vez mais ativo e engajado, o que representa uma ótima chance de conversão para planos de assinatura.
 
