@@ -8,7 +8,7 @@ Perguntas Orientadoras de Negócios: Três perguntas guiarão o futuro programa 
 * Por que os ciclistas casuais comprariam associações anuais da Cyclistic? 
 * Como a Cyclistic pode usar a mídia digital para influenciar os ciclistas casuais a se tornarem membros?
 
-# Primeira Fase
+# Primeira Fase : Tratamento dos dados e juncao das tabelas com excel 
 
 Neste estudo de caso, sou responsável por responder à seguinte pergunta:
 “Como os membros anuais e os ciclistas casuais usam as bicicletas da Cyclistic de forma diferente?”
@@ -57,7 +57,7 @@ Juntei as tabelas pois seria melhor para trabalhar com elas reuniadas em uma gra
   
 Como os dados estavam ficando muito pesados para serem trabalhados no Excel, passei a utilizar o SQL para continuar a análise.
 
-
+# Segunda Fase : Comecando a usar SQL e inciando a Analise Descritiva  
 
 Criaçao da tabela " Dados_Empresa_de_Ciclistas "
 
@@ -254,19 +254,6 @@ O135	55
 
 ```
 
-
-A seguir, temos um boxplot que nos ajuda a compreender melhor o comportamento dos dados. Podemos observar que há muitos outliers, ou seja, diversos valores que ultrapassam a média. A partir disso, é possível tirar algumas conclusões:
-
-* A média de tempo pode estar distorcida (puxada para cima), já que a maioria dos valores ultrapassa a média geral, sendo 13 minutos para membros e 84 minutos para usuários casuais.
-* Também conseguimos ter uma noção inicial da resposta à pergunta do estudo de caso, pois tanto a média de tempo quanto a quantidade de outliers dos usuários casuais são significativamente maiores do que as dos membros anuais.
-
-  
-
-<img width="751" height="595" alt="image" src="https://github.com/user-attachments/assets/8548533c-50a0-462c-81d6-0ffa29f8bacc" />
-
-
-
-
 Em seguida, apresento a porcentagem diária de minutos e a soma total de minutos por dia dividido por tipo de usuario para verificarmos em quais dias os usuarios mais usam as bikes :
 
 Membros :
@@ -289,6 +276,9 @@ Podemos tirar algumas conclusoes disso:
 * Os ciclistas casuais utilizam as bicicletas por menos tempo em comparação aos membros anuais, porém o tempo total de uso dos casuais representa cerca de 64% do tempo dos membros.
 * Entre os membros, a média de tempo de uso se mantém estável ao longo da semana, com ligeiro destaque para os dias úteis, indicando um padrão de uso mais regular.
 * Já os usuários casuais apresentam uma diferença perceptível no comportamento: no início da semana o número de usos é mais baixo, mas a partir de quinta-feira os valores começam a crescer, atingindo os maiores índices durante o final de semana.
+
+Podemos ver essa relacao com o grafico abaixo: 
+
 
 
 
