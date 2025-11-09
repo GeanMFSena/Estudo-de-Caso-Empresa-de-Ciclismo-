@@ -279,6 +279,9 @@ Podemos tirar algumas conclusoes disso:
 
 Podemos ver essa relacao com o grafico abaixo: 
 
+https://app.powerbi.com/groups/me/reports/ae11e3bf-1f09-490c-9c66-f56d32feabdc/5eac21df3f676ea06931?ctid=659ce2b8-0714-4198-8c38-dc9b60aabb57&pbi_source=shareVisual&visual=eea99f7855748282f48f&height=240.14&width=647.69&bookmarkGuid=3a675f8f-01f2-48ca-bede-2310de3638e7
+
+
 
 
 
