@@ -279,7 +279,35 @@ Podemos tirar algumas conclusoes disso:
 
 Podemos ver essa relacao com o grafico abaixo: 
 
-https://app.powerbi.com/groups/me/reports/ae11e3bf-1f09-490c-9c66-f56d32feabdc/5eac21df3f676ea06931?ctid=659ce2b8-0714-4198-8c38-dc9b60aabb57&pbi_source=shareVisual&visual=eea99f7855748282f48f&height=240.14&width=647.69&bookmarkGuid=3a675f8f-01f2-48ca-bede-2310de3638e7
+<img width="682" height="247" alt="image" src="https://github.com/user-attachments/assets/ce671705-110a-45ae-a142-bb1cb5ea4621" />
+
+Aqui podemos ver com mais detalhes que os finais de semana sao os dias preferidos dos usuarios casuais e isso nos da um indicador de que se conseguirmos converter esse assinantes causuais que usam nos finais de semana para membros ja almentariamos consideravelmente nossos lucros
+
+Aqui temos uma comparacao de Tempo por tipo de genero sendo Homens, Mulheres e nao informados 
+
+<img width="525" height="246" alt="image" src="https://github.com/user-attachments/assets/754c85a1-5f67-4978-8d5c-86210af6a2ae" />
+
+
+Aqui podemos ver que os principais usuarios das Bikes sao majoritariamentes homens tanto no ano de 2019 quanto no de 2020 tendo um aumento significativo para os dois em comparacao do ano de 2019 a 2020 
+
+
+
+2019 
+
+<img width="520" height="246" alt="{90C97770-45D8-4DEE-9144-A7B12B7B3CEE}" src="https://github.com/user-attachments/assets/8d2e7520-db4f-4c8a-b294-4813593ff48f" />
+
+
+2020
+
+<img width="524" height="245" alt="{4020AEBE-4A1B-4CA0-86BE-B1E1D343C043}" src="https://github.com/user-attachments/assets/47e9c43d-38e1-43b6-8820-ca605903c4dd" />
+
+
+Mas mesmo com esse aumento significativo na parte feminina ainda temos uma distancia discrepante de homens e mulheres 
+
+
+Aqui temos um historico de dias com maior numero de procuras sendo domingo o mais pedido no periodo dos dois anos:
+
+<img width="672" height="262" alt="{1137EE83-7377-44D3-A733-1D03C37F3DF8}" src="https://github.com/user-attachments/assets/70477013-e651-40f7-9abb-05279ded2d0a" />
 
 
 
