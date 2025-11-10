@@ -330,7 +330,8 @@ Podemos observar que 2020 apresentou uma melhora notável em relação a 2019, c
 
 O destaque vai novamente para os usuários casuais, que apresentaram crescimento consistente em todos os meses de 2020 em comparação com o mesmo período de 2019.
 
-<img width="1243" height="257" alt="image" src="https://github.com/user-attachments/assets/ef5719bf-b23b-4f1b-a27c-db0527c5137f" />
+<img width="1205" height="255" alt="image" src="https://github.com/user-attachments/assets/66257a04-fd13-41d2-ae4b-8b491699407a" />
+
 
 Esse aumento reforça a tendência de que cada vez mais pessoas estão conhecendo e utilizando o serviço de forma eventual, o que abre espaço para estratégias de fidelização e planos personalizados.
 
