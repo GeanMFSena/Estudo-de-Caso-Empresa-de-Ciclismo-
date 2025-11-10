@@ -340,19 +340,19 @@ Esse aumento reforça a tendência de que cada vez mais pessoas estão conhecend
 # Resumo da Analise 
 
 
-Diferença clara de comportamento entre membros e casuais:
+#### Diferença clara de comportamento entre membros e casuais:
 
 Os membros utilizam as bicicletas com maior frequência e de forma mais regular durante a semana. Ja os usuários casuais concentram o uso aos finais de semana, especialmente a partir de quinta-feira.
 
-Tempo de uso médio:
+#### Tempo de uso médio:
 
 Os Ciclistas casuais pedalam por mais tempo por viagem (média de 84 min) em comparação aos membros (13 min). No entanto, o tempo total de uso dos casuais ainda representa cerca de 64% do tempo total dos membros.
 
-Diferença por gênero:
+#### Diferença por gênero:
 
 Homens continuam sendo a maioria dos usuários, mas houve crescimento relevante entre mulheres em 2020. Esse dado indica potencial para campanhas focadas no público feminino.
 
-Tendência de crescimento:
+#### Tendência de crescimento:
 
 Em 2020, o tempo de uso dos usuários casuais cresceram cerca de 323,64% em relação a 2019 um aumento expressivo que mostra maior engajamento e descoberta do serviço.
 
@@ -361,6 +361,25 @@ Padrões sazonais e temporais:
 O domingo é o dia com maior número de viagens, seguido pelo sábado. O mês de março se destaca em ambos os anos como o período com mais uso, sugerindo influência sazonal (clima ou eventos locais).
 
 
+# Acao
+
+#### Conversão de usuários casuais:
+
+Criar planos de assinatura de fim de semana com descontos ou vantagens, mirando os usuários casuais que pedalam aos nos dias proximos aos finais de semana pois nesses dias esse tipo de usuario tem um costume maior de usar as bikes. 
+
+Tambem podemos implementar campanhas de teste gratuito para incentivar a migração para planos mensais ou anuais.
+
+#### Campanhas por público:
+
+Podemos desenvolver ações de marketing voltadas ao público feminino, como eventos, descontos especiais ou programas de incentivo para a sua maior aceitacao e conversao.
+
+Tambem podemos promover parcerias com academias, parques, cafés locais, estacoes de onibus e metro, aeroportos entre outras coisas para atrair novos membros.
+
+#### Melhoria operacional:
+
+Temos que auemntar o número de bicicletas disponíveis em estações com maior uso nos fins de semana para atrair mais publico nesses dias.
+
+Avaliar a distribuição das bikes em horários de pico para reduzir falta ou excesso em determinados locais.
 
 
 
