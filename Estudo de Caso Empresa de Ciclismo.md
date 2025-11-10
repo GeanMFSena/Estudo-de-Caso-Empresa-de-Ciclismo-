@@ -377,7 +377,7 @@ Tambem podemos promover parcerias com academias, parques, cafés locais, estacoe
 
 ### Melhoria operacional:
 
-Temos que auemntar o número de bicicletas disponíveis em estações com maior uso nos fins de semana para atrair mais publico nesses dias.
+Temos que aumentar o número de bicicletas disponíveis em estações com maior uso nos fins de semana para atrair mais publico nesses dias.
 
 Avaliar a distribuição das bikes em horários de pico para reduzir falta ou excesso em determinados locais.
 
