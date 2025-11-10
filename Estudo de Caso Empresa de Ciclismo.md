@@ -356,7 +356,7 @@ Homens continuam sendo a maioria dos usuários, mas houve crescimento relevante 
 
 Em 2020, o tempo de uso dos usuários casuais cresceram cerca de 323,64% em relação a 2019 um aumento expressivo que mostra maior engajamento e descoberta do serviço.
 
-Padrões sazonais e temporais:
+### Padrões sazonais e temporais:
 
 O domingo é o dia com maior número de viagens, seguido pelo sábado. O mês de março se destaca em ambos os anos como o período com mais uso, sugerindo influência sazonal (clima ou eventos locais).
 
