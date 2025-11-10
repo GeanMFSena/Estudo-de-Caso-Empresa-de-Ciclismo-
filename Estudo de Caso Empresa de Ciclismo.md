@@ -319,3 +319,21 @@ Aqui temos o crescimento no número de usuários em ambos os períodos, separado
 
 Os usuários casuais tiveram um crescimento impressionante de cerca de 323,64% em 2020 em relação a 2019 Isso mostra que esse grupo está cada vez mais ativo e engajado, o que representa uma ótima chance de conversão para planos de assinatura.
 
+
+Comparacao entre os Trimestres do ano de 2019 e 2020 
+
+<img width="642" height="251" alt="{E7548CA6-533D-4F13-A89A-F9B4AFCAE7DB}" src="https://github.com/user-attachments/assets/b3f1b926-d3e8-4aba-a452-42c97dff6cfb" />
+
+
+Podemos observar que 2020 apresentou uma melhora notável em relação a 2019, com destaque para o mês de março em ambos os anos que se mostrou o período com maior número de usuários e maior tempo médio de uso das bicicletas
+
+
+O destaque vai novamente para os usuários casuais, que apresentaram crescimento consistente em todos os meses de 2020 em comparação com o mesmo período de 2019.
+
+<img width="1243" height="257" alt="image" src="https://github.com/user-attachments/assets/ef5719bf-b23b-4f1b-a27c-db0527c5137f" />
+
+Esse aumento reforça a tendência de que cada vez mais pessoas estão conhecendo e utilizando o serviço de forma eventual, o que abre espaço para estratégias de fidelização e planos personalizados.
+
+
+
+
